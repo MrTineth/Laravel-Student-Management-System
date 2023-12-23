@@ -6,6 +6,14 @@ Student Management System Using Laravel Crud Operation
 
 
 
+
+
+
+
+
+
+
+
 ![2](https://github.com/MrTineth/Laravel-Student-Management-System/assets/106744622/998972e3-4870-42c9-aa61-aa88a658142e)
 
 
